@@ -17,6 +17,7 @@ namespace Sample.Core.ViewModels {
         }
 
 
+        //public HomeViewModel(IDeviceInfoService deviceInfo, IUserDialogService dialogs) {
         public HomeViewModel(IDeviceInfoService deviceInfo, IUserDialogService dialogs) {
             this.Menu = new List<MenuItemViewModel> {
                 new MenuItemViewModel(

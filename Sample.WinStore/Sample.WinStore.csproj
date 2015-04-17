@@ -172,6 +172,10 @@
       <Project>{1ed7e825-98ed-4740-8dd7-96e4aa3f1128}</Project>
       <Name>Acr.MvvmCross.Plugins.BarCodeScanner</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Acr.MvvmCross.Plugins.DeviceInfo.WindowsStore\Acr.MvvmCross.Plugins.DeviceInfo.WindowsStore.csproj">
+      <Project>{199a37d7-1cdc-4b2b-be1c-c48019dbf215}</Project>
+      <Name>Acr.MvvmCross.Plugins.DeviceInfo.WindowsStore</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Acr.MvvmCross.Plugins.DeviceInfo\Acr.MvvmCross.Plugins.DeviceInfo.csproj">
       <Project>{62822de8-ceb9-4602-b780-84e9e3d11b88}</Project>
       <Name>Acr.MvvmCross.Plugins.DeviceInfo</Name>
@@ -191,6 +195,10 @@
     <ProjectReference Include="..\Acr.MvvmCross.Plugins.Settings\Acr.MvvmCross.Plugins.Settings.csproj">
       <Project>{90ab40eb-c012-482c-8c61-fcf2ba56fb60}</Project>
       <Name>Acr.MvvmCross.Plugins.Settings</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Acr.MvvmCross.Plugins.UserDialogs.WindowsStore\Acr.MvvmCross.Plugins.UserDialogs.WindowsStore.csproj">
+      <Project>{f8374c3e-5b22-4b97-b05e-d09a7bd6525f}</Project>
+      <Name>Acr.MvvmCross.Plugins.UserDialogs.WindowsStore</Name>
     </ProjectReference>
     <ProjectReference Include="..\Acr.MvvmCross.Plugins.UserDialogs\Acr.MvvmCross.Plugins.UserDialogs.csproj">
       <Project>{fb69b463-0dd5-49d2-afed-6e3a31eb37a1}</Project>
